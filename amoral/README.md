@@ -2,3 +2,4 @@
 
 In this course I will learn:
 - Control version platforms like GitHub, containers and more!
+Updated folder and README.md
